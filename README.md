@@ -1,16 +1,24 @@
-# flutter_picture_like
+## Flutter Instagram Like Button Example
 
-A new Flutter project.
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/94339143?v=4" width=100/>
+</p>
+
+## pub.dev
+
+[insta_like_button](https://pub.dev/packages/insta_like_button)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+```
+git clone https://github.com/afifudinn/flutter-picture-like
+cd flutter-picture-like
+flutter pub get
+flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p style="float: left;">
+  <img src="https://github.com/afifudinn/flutter-picture-like/blob/main/screenshots/1.png"/>
+</p>
